@@ -1,1 +1,4 @@
-Held-out syllabus candidates for Sprint 2.
+10 Held-Out Syllabi
+===================
+
+Contains the 10 syllabus documents selected for the held-out corpus.
